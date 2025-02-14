@@ -1,4 +1,5 @@
 # **Bank Marketing Campaign Analysis and Prediction Model**  
+Note: Viewing the Power BI dashboard requires signing in with a Power BI account (a free trial is typically available).
 [![Power BI Report](https://img.shields.io/badge/PowerBI-Interactive%20Dashboard-blue?style=flat&logo=powerbi)](https://app.powerbi.com/links/5vPja9zegt?ctid=80f23f4a-91a4-4566-8db1-3bcabb21d1cb&pbi_source=linkShare)
 
 ## **Overview**

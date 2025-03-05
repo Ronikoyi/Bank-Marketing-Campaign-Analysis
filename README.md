@@ -1,11 +1,8 @@
 # **Bank Marketing Campaign Analysis and Prediction Model**  
-Note: Viewing the Power BI dashboard requires signing in with a Power BI account (a free trial is typically available).
-[![Power BI Report](https://img.shields.io/badge/PowerBI-Interactive%20Dashboard-blue?style=flat&logo=powerbi)](https://app.powerbi.com/links/5vPja9zegt?ctid=80f23f4a-91a4-4566-8db1-3bcabb21d1cb&pbi_source=linkShare)
 
 ## **Overview**
 This project analyzes a **Portuguese banking institution's direct marketing campaigns** to predict whether a client will **subscribe to a term deposit**. The dataset includes **41,188 records** from phone-based marketing campaigns, capturing **customer attributes, campaign details, and economic indicators**.
 
-🔗 **[View the Interactive Power BI Dashboard](https://app.powerbi.com/links/5vPja9zegt?ctid=80f23f4a-91a4-4566-8db1-3bcabb21d1cb&pbi_source=linkShare)**  
 📄 **[View the Jupyter Notebook](./Bank%20Marketing%20Analysis_Notebook.ipynb)**  
 
 ## **Dataset**

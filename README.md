@@ -20,7 +20,7 @@ This project analyzes a **Portuguese banking institution's direct marketing camp
 ## **Project Structure**
 This project consists of **two components**:  
 **Jupyter Notebook for Machine Learning Modeling**  
-**Power BI Dashboard for Interactive Insights**  
+**Power BI Dashboard for Interactive Insights (Institutional Access Required)**  
 
 ---
 
@@ -46,7 +46,7 @@ This project consists of **two components**:
 ---
 
 ## **How to Use**
-### **Explore the Power BI Dashboard**
+### **Explore the Power BI Dashboard (Institutional Access Required)**
 - **[Click here to access the interactive report](https://app.powerbi.com/links/5vPja9zegt?ctid=80f23f4a-91a4-4566-8db1-3bcabb21d1cb&pbi_source=linkShare)**
 - Navigate through:
   - **Model Performance**
